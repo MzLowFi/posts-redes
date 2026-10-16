@@ -1,0 +1,13 @@
+{
+  "serie": "IA NA PRÁTICA",
+  "slides": [
+    {"tipo": "capa", "titulo": "*Pare* de pedir para a IA “melhorar o texto”", "subtitulo": "6 comandos que funcionam muito melhor."},
+    {"tipo": "item", "numero": 1, "titulo": "Dê um papel", "texto": "A IA responde melhor quando sabe quem ela deve ser.", "rotulo_teste": "COPIE E USE", "teste": "Aja como um revisor experiente de textos corporativos e revise este e-mail."},
+    {"tipo": "item", "numero": 2, "titulo": "Diga para quem é", "texto": "O mesmo texto muda conforme quem vai ler.", "rotulo_teste": "COPIE E USE", "teste": "Reescreva este texto para um diretor que tem 2 minutos para ler."},
+    {"tipo": "item", "numero": 3, "titulo": "Defina o formato", "texto": "Sem formato definido, ela escolhe por você.", "rotulo_teste": "COPIE E USE", "teste": "Resuma em 5 tópicos curtos, com uma conclusão no final."},
+    {"tipo": "item", "numero": 4, "titulo": "Peça críticas, não elogios", "texto": "Elogio não melhora nada. Crítica, sim.", "rotulo_teste": "COPIE E USE", "teste": "Aponte os 3 pontos mais fracos deste texto e explique por quê."},
+    {"tipo": "item", "numero": 5, "titulo": "Dê um exemplo", "texto": "Mostrar é mais rápido do que explicar.", "rotulo_teste": "COPIE E USE", "teste": "Escreva no mesmo estilo deste exemplo: [cole o exemplo]."},
+    {"tipo": "item", "numero": 6, "titulo": "Peça para ela perguntar", "texto": "Boas respostas começam com boas perguntas.", "rotulo_teste": "COPIE E USE", "teste": "Antes de responder, me faça as perguntas que você precisa para fazer um bom trabalho."},
+    {"tipo": "final", "titulo": "Salve para usar *no próximo texto*.", "subtitulo": "Siga {handle} para mais dicas práticas de IA."}
+  ]
+}
