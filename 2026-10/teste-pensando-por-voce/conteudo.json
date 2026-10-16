@@ -1,0 +1,10 @@
+{
+  "serie": "IA NA PRÁTICA",
+  "slides": [
+    {"tipo": "capa", "titulo": "Você usa a IA para *pensar melhor*, ou para *não pensar*?", "subtitulo": "3 sinais de que você está terceirizando o seu raciocínio."},
+    {"tipo": "item", "numero": 1, "titulo": "Você aceita a primeira resposta", "texto": "Se você nunca discorda da IA, quem está pensando é ela.", "teste": "Pergunte: “quais são os pontos fracos da sua resposta?”"},
+    {"tipo": "item", "numero": 2, "titulo": "Você não sabe explicar o resultado", "texto": "Se não consegue explicar com suas palavras, ainda não entendeu.", "teste": "Explique a resposta para alguém em 1 minuto."},
+    {"tipo": "item", "numero": 3, "titulo": "Você pula a parte de pensar", "texto": "Pedir a resposta antes de ter a sua opinião tira de você o melhor exercício.", "teste": "Escreva sua ideia em 3 linhas antes de abrir a IA."},
+    {"tipo": "final", "titulo": "A IA é ótima para *pensar junto*.\nPéssima para pensar *por você*.", "subtitulo": "Salve este post e siga {handle} para mais IA na prática."}
+  ]
+}
