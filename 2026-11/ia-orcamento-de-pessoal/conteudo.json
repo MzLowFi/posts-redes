@@ -1,0 +1,12 @@
+{
+  "serie": "IA NA PRÁTICA",
+  "slides": [
+    {"tipo": "capa", "titulo": "A IA não está demitindo ninguém. O *orçamento* dela está.", "subtitulo": "A Microsoft ofereceu demissão voluntária a 60 mil funcionários enquanto investe pesado em IA."},
+    {"tipo": "frase", "titulo": "A IA virou uma *linha do orçamento*.\nA mesma que paga as pessoas.", "subtitulo": "Quando um custo cresce rápido, outro precisa ceder."},
+    {"tipo": "item", "numero": 1, "titulo": "Saiba quanto você entrega", "texto": "Quem não mede o próprio resultado vira só um custo na planilha.", "teste": "Anote 3 resultados concretos que você gerou este ano.", "rotulo_teste": "NA PRÁTICA"},
+    {"tipo": "item", "numero": 2, "titulo": "Ponha a IA para trabalhar por você", "texto": "Quem usa IA bem faz mais no mesmo tempo. E isso aparece.", "teste": "Escolha uma tarefa repetitiva e faça com IA esta semana.", "rotulo_teste": "NA PRÁTICA"},
+    {"tipo": "item", "numero": 3, "titulo": "Cuide do que a IA não faz", "texto": "Relacionamento, julgamento e responsabilidade continuam humanos.", "teste": "Assuma um problema que exige decidir, não só executar.", "rotulo_teste": "NA PRÁTICA"},
+    {"tipo": "item", "numero": 4, "titulo": "Mostre valor, não esforço", "texto": "Horas trabalhadas não convencem ninguém. Resultado convence.", "teste": "Na próxima reunião, fale do impacto, não da tarefa.", "rotulo_teste": "NA PRÁTICA"},
+    {"tipo": "final", "titulo": "A IA tem *custo*.\nSeu trabalho precisa mostrar *valor*.", "subtitulo": "Salve este post e siga {handle} para mais IA na prática."}
+  ]
+}
