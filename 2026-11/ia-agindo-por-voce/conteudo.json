@@ -1,0 +1,12 @@
+{
+  "serie": "IA NA PRÁTICA",
+  "slides": [
+    {"tipo": "capa", "titulo": "Você daria a senha do seu banco para uma *IA*?", "subtitulo": "Ela já pode entrar em sites por você.\n5 cuidados antes de deixar."},
+    {"tipo": "item", "numero": 1, "titulo": "Dê só o acesso necessário", "texto": "Para marcar uma consulta, a IA não precisa do seu e-mail inteiro nem do seu banco.", "teste": "Antes de conectar, pergunte: ela precisa mesmo disso?", "rotulo_teste": "NA PRÁTICA"},
+    {"tipo": "item", "numero": 2, "titulo": "Aprove cada passo importante", "texto": "Pagar, enviar mensagem, apagar: nada disso deve acontecer sem o seu ok.", "teste": "Ative a confirmação manual nas configurações.", "rotulo_teste": "NA PRÁTICA"},
+    {"tipo": "item", "numero": 3, "titulo": "Nunca cole senha no chat", "texto": "O que você digita numa conversa pode ficar salvo.", "teste": "Use um gerenciador de senhas com aprovação de login.", "rotulo_teste": "NA PRÁTICA"},
+    {"tipo": "item", "numero": 4, "titulo": "Confira o que ela fez", "texto": "IA erra com confiança. Um clique errado pode virar uma compra.", "teste": "Revise o histórico de ações no fim do dia.", "rotulo_teste": "NA PRÁTICA"},
+    {"tipo": "item", "numero": 5, "titulo": "Corte o acesso depois", "texto": "Acesso esquecido é porta aberta. Terminou a tarefa, desconecte.", "teste": "Uma vez por mês, revise os apps ligados às suas contas.", "rotulo_teste": "NA PRÁTICA"},
+    {"tipo": "final", "titulo": "A IA pode agir *por você*.\nA responsabilidade continua *sua*.", "subtitulo": "Salve este post e siga {handle} para mais IA na prática."}
+  ]
+}
