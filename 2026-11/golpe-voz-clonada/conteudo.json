@@ -1,0 +1,13 @@
+{
+  "serie": "SEGURANÇA NA PRÁTICA",
+  "slides": [
+    {"tipo": "capa", "titulo": "A voz era do seu filho. *Não era ele.*", "subtitulo": "Golpe da voz clonada: como proteger a sua família em 1 minuto."},
+    {"tipo": "item", "numero": 1, "titulo": "Alguns *segundos* bastam", "texto": "Golpistas usam IA para copiar uma voz a partir de poucos segundos de áudio, tirados de vídeos e áudios publicados nas redes."},
+    {"tipo": "item", "numero": 2, "titulo": "O roteiro do *golpe*", "texto": "Uma ligação ou um áudio com uma voz conhecida, um pedido urgente de dinheiro e muita pressa para você não pensar."},
+    {"tipo": "item", "numero": 3, "titulo": "Combine uma *palavra secreta*", "texto": "Uma palavra que só a família sabe. Na dúvida, peça a palavra. O golpista não tem como saber.", "teste": "Evite nome de pet ou de time: isso aparece nas redes.", "rotulo_teste": "DICA"},
+    {"tipo": "item", "numero": 4, "titulo": "Desligue e *ligue de volta*", "texto": "Retorne para o número que já está salvo na sua agenda, ou pergunte no grupo da família."},
+    {"tipo": "item", "numero": 5, "titulo": "Feche as *portas*", "texto": "Deixe as redes no modo privado e aceite só quem você conhece. E nunca mande dinheiro com pressa."},
+    {"tipo": "item", "numero": 6, "titulo": "Se cair no *golpe*", "texto": "Avise o banco na hora. Se foi Pix, peça a devolução pelo MED, do Banco Central. Guarde as provas e registre ocorrência."},
+    {"tipo": "final", "titulo": "Mande para quem você *ama*.", "subtitulo": "Combine a palavra hoje. Siga {handle} para mais tecnologia na prática."}
+  ]
+}
