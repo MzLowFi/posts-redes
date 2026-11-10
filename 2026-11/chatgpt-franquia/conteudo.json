@@ -1,0 +1,12 @@
+{
+  "serie": "IA NA PRÁTICA",
+  "slides": [
+    {"tipo": "capa", "titulo": "Seu ChatGPT pago vai ganhar uma *franquia*.", "subtitulo": "Igual plano de celular. Veja o que muda em dezembro."},
+    {"tipo": "item", "numero": 1, "titulo": "Uma cota só para *tudo*", "texto": "Nos planos Plus, Pro e Business, o ChatGPT e o Codex (a ferramenta de programação) vão dividir a mesma cota."},
+    {"tipo": "item", "numero": 2, "titulo": "Conta pelo *tamanho*, não pela mensagem", "texto": "A cota passa a ser medida em tokens: os pedaços de texto que a IA lê e escreve. Pedido longo e tarefa difícil gastam mais."},
+    {"tipo": "item", "numero": 3, "titulo": "O modo *rápido* fica de fora", "texto": "As conversas no modo Instant não descontam da cota."},
+    {"tipo": "item", "numero": 4, "titulo": "Ainda faltam os *números*", "texto": "A OpenAI ainda não disse o tamanho da cota nem o dia exato da mudança.", "teste": "Acompanhe o seu consumo nas configurações da conta.", "rotulo_teste": "FIQUE DE OLHO"},
+    {"tipo": "item", "numero": 5, "titulo": "Como fazer a cota *render*", "texto": "Use o modo rápido para perguntas simples e guarde os modelos avançados para as tarefas difíceis.", "teste": "Peça tudo de uma vez, em vez de ir e voltar várias vezes.", "rotulo_teste": "DICA"},
+    {"tipo": "final", "titulo": "Salve para lembrar em *dezembro*.", "subtitulo": "Siga {handle} para mais tecnologia na prática."}
+  ]
+}
